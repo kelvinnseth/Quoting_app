@@ -48,8 +48,6 @@ This will run all unit tests and display the results in the terminal.
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Project Structure
 - `app.py`: Main application code
